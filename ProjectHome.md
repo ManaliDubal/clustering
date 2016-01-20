@@ -1,0 +1,1 @@
+A package for generating random networks which feature tunable degree distribution and clustering
